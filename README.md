@@ -18,4 +18,4 @@ Before software I trained as a sculptor, which is where the design side comes fr
 - Jacob: a Georgian learning app with 223 lessons, spoken audio and letter tracing (in development)
 - Client work: an operations planning app (Power Apps, Azure OpenAI) and a lead-to-offer automation (Python, Microsoft Graph)
 
-Email: cesicobrad@gmail.com
+Website: [cesicobrad.github.io](https://cesicobrad.github.io) · Email: cesicobrad@gmail.com
