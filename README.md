@@ -12,6 +12,7 @@ Before software I trained as a sculptor, which is where the design side comes fr
 - [Šrauf workshop](https://github.com/cesicobrad/srauf-workshop): a bike-shop chat assistant joined up with staff review, quotes and n8n workflows
 - [Voice receptionist](https://github.com/cesicobrad/voice-receptionist): Nora takes bookings for a dental practice in English or Slovenian
 - [Document extraction](https://github.com/cesicobrad/doc-extraction): invoices, emails and photos to structured data with a human check, 103/103 fields correct
+- [n8n automations](https://github.com/cesicobrad/n8n-automations): n8n workflows that research and score each lead, draft replies for approval, file invoices and send a weekly digest
 
 **Private apps**
 - Aron: a Georgian communication app for nonverbal children and adults, used daily in therapy centres
